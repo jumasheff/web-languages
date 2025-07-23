@@ -6,8 +6,12 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- [https://ky.kloop.asia](Kloop) -- arguably the only independent news outlet which is being shut down
+- [https://azattyk.org](Azattyk) -- high quality news texts. Funded by U.S. Agency for Global Media
+- [https://barakelde.org/](Баракелде)
+- [https://akipress.org/kg/](Акипресс)
+- [https://kaktus.kg/](Кактус)
+- [https://sputnik.kg/](Спутник) -- high quality news texts. Funded by Russian government.
 
 Culture / History:
 - 
