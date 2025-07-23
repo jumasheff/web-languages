@@ -3,11 +3,17 @@
 Additional names:
 - Kyrgyz
 - кыргызча
-- 
+- кыргыз тили
 
 News:
-- 
-- 
+- https://ky.kloop.asia
+- https://azattyk.org
+- https://sputnik.kg
+- https://www.bbc.com/kyrgyz
+- https://akipress.org/kg/
+- https://barakelde.org/
+- https://www.utrk.kg/kg
+- https://kaktus.kg/
 
 Culture / History:
 - 
